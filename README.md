@@ -68,6 +68,7 @@ s3://atividade-2-pipeline-dados-2026-10782188/
 │           └── vendas_por_uf_categoria.parquet
 │
 └── athena-results/
+```
 
 ## 4. Geração dos dados
 
