@@ -68,7 +68,8 @@ s3://atividade-2-pipeline-dados-2026-10782188/
 │           └── vendas_por_uf_categoria.parquet
 │
 └── athena-results/
-```text
+
+```
 
 ## 4. Geração dos dados
 
@@ -345,4 +346,4 @@ Os resultados obtidos demonstram a consistência do fluxo:
 
 30 pedidos recebidos → 26 pedidos válidos + 4 pedidos rejeitados
 
-O faturamento total de R$ 66.910,00 foi preservado entre as camadas Silver e Gold.
+O faturamento total de R$ 66.910,00 foi preservado entre as camadas Silver e Gold
