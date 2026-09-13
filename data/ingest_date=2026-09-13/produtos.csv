@@ -1,0 +1,6 @@
+product_id,produto,categoria,preco
+101,Notebook,Eletronicos,3500.0
+102,Celular,Eletronicos,2200.0
+103,Camisa,Vestuario,100.0
+104,Tenis,Calcados,250.0
+105,Mochila,Acessorios,180.0
